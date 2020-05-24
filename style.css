@@ -109,6 +109,8 @@ body{
 	font-size: 35px;
 	text-align: center;
 	text-shadow: 0 0 10px #000;
+	transition-duration: 500ms;
+	transition-property: padding, margin;
 }
 .lite-border-btn:hover{
 	padding: 25px;
