@@ -14,7 +14,7 @@ body{
 	background-color: #111;
 	margin: 0;
 	box-shadow:  0 0 10px #000;
-	color: #f00
+	color: #f00	
 }
 #top-menu{
 	height: 60px;
@@ -41,7 +41,6 @@ body{
 	padding: 15px;
 	height: 30px;
 	font-size: 25px;
-	color: #fff;
 	top: -22px;
 }
 .tml-element{
