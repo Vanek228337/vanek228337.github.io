@@ -91,7 +91,7 @@ body{
 }
 #ad-box-text{
 	font-size: 35px;
-	color: #123;
+	/*color: #123;*/
 	text-shadow: 0 0 #000 10px;
 	position: absolute;
 	z-index: 1;
@@ -101,7 +101,7 @@ body{
 	transform: translate(-50%, -50%);
 }
 .lite-border-btn{
-	color: #040;
+	/*color: #040;*/
 	border-radius: 5px;
 	border: solid #040 3px;
 	padding: 20px;
@@ -131,7 +131,7 @@ body{
 	transform: rotateX(180deg);
 }
 .tml-btn:hover{
-	color: #eef;
+	/*color: #eef;*/
 	text-shadow: 0 0 10px #00f;
 	background-color: rgba(0,0,255,0.1 );
 }
@@ -153,7 +153,7 @@ body{
 	width: 100%;
 }
 #box1-title{
-	color: #040;
+	/*color: #040;*/
 	font-size: 30px;
 	position: absolute;
 	left: 75%;
@@ -175,7 +175,7 @@ body{
 	border: solid #974 3px;
 	border-radius: 5px;
 	font-size: 35px;
-	color: #fff;
+	/*color: #fff;*/
 	text-align: center;
 	text-shadow: 0 0 10px #000;
 	transition-duration: 200ms;
@@ -203,7 +203,7 @@ body{
 	transform: translate(-50%, -50%);
 	text-align: center;
 	font-size: 30px;
-	color: #040;
+	/*color: #040;*/
 }
 #box2-title-img{
 	width: 100px;
@@ -224,7 +224,7 @@ body{
 	position: absolute;
 	max-width: 50%;
 	min-width: 25%;
-	color: #040;
+	/*color: #040;*/
 	font-size: 30px;
 	top: 50%;
 	right: 50%;
@@ -279,7 +279,7 @@ body{
 	height: 800px;
 	width: 450px;
 	margin: 3px;
-	color: #040;
+	/*color: #040;*/
 	font-size: 30px;
 	text-align: center;
 	position: relative;
@@ -311,7 +311,7 @@ body{
 	text-decoration: none;
 }
 a{
-	color: #040;
+	/*color: #040;*/
 }
 .tml-menu-btn{
 	display: inline-block;
@@ -354,14 +354,14 @@ a{
 }
 #footer{
 	background-color: #222;
-	color: #040;
+	/*color: #040;*/
 	padding-top: 50px;
 	padding-bottom: 50px;
 	font-size: 25px;
 	text-align: center;
 }
 #footer a{
-	color: #fff;
+	/*color: #fff;*/
 	text-decoration: none;
 }
 #box6{
@@ -373,11 +373,11 @@ a{
 	position: relative;
 	display: inline-block;
 	width: 800px;
-	color: #fff;
+	/*color: #fff;*/
 	text-align: left;
 	vertical-align: top;
 	font-size: 25px;
-	color: #040;
+	/*color: #040;*/
 }
 #box6-simple{
 	width: 400px;
@@ -410,20 +410,20 @@ a{
 	width: 120px;
 	left: 0;
 	background-color: #c4c235; 
-	color: white;
+	/*color: white;*/
 }
 #box6-simple-button2{
 	width: 160px;
 	left: 120px;
 	background-color: #1e21d9;
-	color: white;
+	/*color: white;*/
 	border-bottom: solid #000 2px;
 }
 #box6-simple-button3{
 	width: 120px;
 	left: 280px;
 	background-color: #3ed11d;
-	color: white;
+	/*color: white;*/
 	border-bottom: solid #000 2px;
 }
 #box6-more2{
@@ -442,15 +442,15 @@ a{
 	display: none;
 }
 #box6-more1 table{
-	color: #040;
+	/*color: #040;*/
 }
 #addition-top-menu{
-	color: #040;
+	/*color: #040;*/
 	text-align: right;
 	min-width: 700px;
 }
 #addition-top-menu a{
-	color: #040;
+	/*color: #040;*/
 	text-decoration: none;
 }
 #addition-top-menu a:hover{
@@ -463,7 +463,7 @@ a{
 	padding-top: 100px;
 	padding-bottom: 100px;
 	text-align: center;
-	color: #040;
+	/*color: #040;*/
 }		
 .box7-card{
 	position: relative;
@@ -485,11 +485,11 @@ a{
 }
 .box7-card-text{
 	text-align: left;
-	color: #fff;
+	/*color: #fff;*/
 	margin: 15px;
 }
 .box7-card-date{
-	color: #040;
+	/*color: #040;*/
 	font-size: 20px;
 	font-family: fantasy;
 	font-family: shr1;
@@ -497,7 +497,7 @@ a{
 
 .box7-card-name{
 	font-size: 40px;
-	color: #040;
+	/*color: #040;*/
 	font-family: shr3;
 }
 
@@ -506,7 +506,7 @@ a{
 	font-size: 30px;
 	position: absolute;
 	bottom: 15px;
-	color: #040;
+	/*color: #040;*/
 	font-family: shr2;
 }
 .tml-btn-bline{
