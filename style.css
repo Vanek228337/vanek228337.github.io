@@ -14,7 +14,7 @@ body{
 	background-color: #111;
 	margin: 0;
 	box-shadow:  0 0 10px #000;
-	color: #00f;	
+	color: #00f !important;	
 }
 #top-menu{
 	height: 60px;
